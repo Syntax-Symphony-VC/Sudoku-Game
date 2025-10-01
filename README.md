@@ -1,2 +1,46 @@
-# Sudoku-Game
-A browser-based Sudoku game.
+- @aismail5
+#- @aismail5
+ - @aismail5
+S- @aismail5
+u- @aismail5
+d- @aismail5
+o- @aismail5
+k- @aismail5
+u- @aismail5
+-- @aismail5
+G- @aismail5
+a- @aismail5
+m- @aismail5
+e- @aismail5
+
+- @aismail5
+A- @aismail5
+ - @aismail5
+b- @aismail5
+r- @aismail5
+o- @aismail5
+w- @aismail5
+s- @aismail5
+e- @aismail5
+r- @aismail5
+-- @aismail5
+b- @aismail5
+a- @aismail5
+s- @aismail5
+e- @aismail5
+d- @aismail5
+ - @aismail5
+S- @aismail5
+u- @aismail5
+d- @aismail5
+o- @aismail5
+k- @aismail5
+u- @aismail5
+ - @aismail5
+g- @aismail5
+a- @aismail5
+m- @aismail5
+e- @aismail5
+.- @aismail5
+
+- @aismail5
